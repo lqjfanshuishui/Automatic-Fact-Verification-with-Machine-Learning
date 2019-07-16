@@ -14,3 +14,5 @@
 ------------------------------------------------------------
 6.get_words.ipynb generates the training set for the word2vec model from the train.json
 7.train_Word2vec.ipynb trains the word2vec model and save it.
+
+Please see the project report. 
